@@ -1,0 +1,13 @@
+﻿Treatment,Week,Day,Root_knot_index,Inference_note
+TCK,1,7,0,Treatment-level derived root-knot index; descriptive only.
+TCP,1,7,0,Treatment-level derived root-knot index; descriptive only.
+TCK,2,14,50,Treatment-level derived root-knot index; descriptive only.
+TCP,2,14,0,Treatment-level derived root-knot index; descriptive only.
+TCK,4,28,56.25,Treatment-level derived root-knot index; descriptive only.
+TCP,4,28,0,Treatment-level derived root-knot index; descriptive only.
+TCK,6,42,75,Treatment-level derived root-knot index; descriptive only.
+TCP,6,42,0,Treatment-level derived root-knot index; descriptive only.
+TCK,8,56,93.75,Treatment-level derived root-knot index; descriptive only.
+TCP,8,56,56.25,Treatment-level derived root-knot index; descriptive only.
+TCK,10,70,100,Treatment-level derived root-knot index; descriptive only.
+TCP,10,70,68.75,Treatment-level derived root-knot index; descriptive only.

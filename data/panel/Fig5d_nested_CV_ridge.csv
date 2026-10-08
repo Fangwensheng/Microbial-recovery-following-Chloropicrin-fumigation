@@ -1,0 +1,9 @@
+﻿Section,Context,Predictor,Block,N,Effect,P,FDR,Definition
+Nested 10-fold CV ridge,Unplanted,Initial state,Initial state,1177,0.0459,,,Held-out R²
+Nested 10-fold CV ridge,Unplanted,Functional architecture,Functional architecture,1177,0.01,,,Held-out R²
+Nested 10-fold CV ridge,Unplanted,Provider traits,Provider traits,1177,0.0168,,,Held-out R²
+Nested 10-fold CV ridge,Unplanted,Combined,Combined,1177,0.0822,,,Held-out R²; outer-fold SD=0.0557
+Nested 10-fold CV ridge,Tomato-planted,Initial state,Initial state,1177,0.0189,,,Held-out R²
+Nested 10-fold CV ridge,Tomato-planted,Functional architecture,Functional architecture,1177,-0.0024,,,Held-out R²
+Nested 10-fold CV ridge,Tomato-planted,Provider traits,Provider traits,1177,0.0505,,,Held-out R²
+Nested 10-fold CV ridge,Tomato-planted,Combined,Combined,1177,0.0817,,,Held-out R²; outer-fold SD=0.0502

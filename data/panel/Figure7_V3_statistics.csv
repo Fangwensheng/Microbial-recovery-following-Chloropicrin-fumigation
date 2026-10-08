@@ -1,0 +1,9 @@
+Panel,Context,Test,N,Spearman_rho,P,FDR,Partial_rho,Partial_P,Partial_FDR
+Fig7a,Unplanted,Provider richness vs early RD,1056,0.643532766,1.62E-124,8.12E-124,0.643532766,1.62E-124,1.62E-123
+Fig7b,Unplanted,Early RD late compensation,1056,0.678001955,4.60E-143,4.60E-142,0.52537707,5.55E-76,1.85E-75
+Fig7d,Unplanted,Integrated compensation vs cumulative residual,1056,-0.165496457,6.34E-08,1.06E-07,-0.082783683,0.007111311,0.010159016
+Fig7a,Tomato-planted,Provider richness vs early RD,1056,0.61175045,2.04E-109,6.81E-109,0.61175045,2.04E-109,1.02E-108
+Fig7b,Tomato-planted,Early RD vs late compensation,1056,0.598460638,1.34E-103,3.36E-103,0.426234875,7.42E-48,1.86E-47
+Fig7d,Tomato-planted,Integrated compensation vs cumulative residual,1056,-0.168338215,3.73E-08,7.46E-08,-0.143248306,2.96E-06,5.92E-06
+Fig7c,Unplanted,Rapid vs Persistent/strengthened,225|160,,4.60E-06,1.84E-05,,,
+Fig7c,Tomato-planted,Rapid vs Persistent/strengthened,114|255,,1.93E-05,2.57E-05,,,

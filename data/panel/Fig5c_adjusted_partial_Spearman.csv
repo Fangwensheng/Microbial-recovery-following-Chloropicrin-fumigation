@@ -1,0 +1,7 @@
+﻿Section,Context,Predictor,Block,N,Effect,P,FDR,Definition
+Adjusted partial Spearman,Unplanted,Provider richness,Functional architecture,1177,-0.0763704,0.0087642,,"Adjusted for initial magnitude, baseline abundance, initial direction, weighted completeness, weighted contamination"
+Adjusted partial Spearman,Tomato-planted,Provider richness,Functional architecture,1177,-0.1110849,0.000134095,,"Adjusted for initial magnitude, baseline abundance, initial direction, weighted completeness, weighted contamination"
+Adjusted partial Spearman,Unplanted,Effective provider diversity,Functional architecture,1177,-0.0415817,0.153966,,"Adjusted for initial magnitude, baseline abundance, initial direction, weighted completeness, weighted contamination"
+Adjusted partial Spearman,Tomato-planted,Effective provider diversity,Functional architecture,1177,-0.07424294,0.0108375,,"Adjusted for initial magnitude, baseline abundance, initial direction, weighted completeness, weighted contamination"
+Adjusted partial Spearman,Unplanted,Provider phylogenetic breadth,Functional architecture,1177,-0.0240127,0.410476,,"Adjusted for initial magnitude, baseline abundance, initial direction, weighted completeness, weighted contamination"
+Adjusted partial Spearman,Tomato-planted,Provider phylogenetic breadth,Functional architecture,1177,-0.0364773,0.211107,,"Adjusted for initial magnitude, baseline abundance, initial direction, weighted completeness, weighted contamination"

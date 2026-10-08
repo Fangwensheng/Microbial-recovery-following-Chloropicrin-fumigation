@@ -1,0 +1,41 @@
+﻿Panel,Dimension,SampleID,Treatment,Day,Value
+Fig1a,16S rRNA gene abundance,qPCR_CP_D0_R1,CP,0,1.20E+08
+Fig1a,ITS gene abundance,qPCR_CP_D0_R1,CP,0,4.56E+05
+Fig1a,16S rRNA gene abundance,qPCR_CP_D0_R2,CP,0,1.04E+08
+Fig1a,ITS gene abundance,qPCR_CP_D0_R2,CP,0,5.43E+05
+Fig1a,16S rRNA gene abundance,qPCR_CP_D0_R3,CP,0,1.24E+08
+Fig1a,ITS gene abundance,qPCR_CP_D0_R3,CP,0,4.33E+05
+Fig1a,16S rRNA gene abundance,qPCR_CK_D0_R1,CK,0,2.02E+08
+Fig1a,ITS gene abundance,qPCR_CK_D0_R1,CK,0,1.28E+06
+Fig1a,16S rRNA gene abundance,qPCR_CK_D0_R2,CK,0,2.10E+08
+Fig1a,ITS gene abundance,qPCR_CK_D0_R2,CK,0,1.38E+06
+Fig1a,16S rRNA gene abundance,qPCR_CK_D0_R3,CK,0,2.02E+08
+Fig1a,ITS gene abundance,qPCR_CK_D0_R3,CK,0,1.50E+06
+Fig1a,Bacterial Shannon,trim1,CP,0,7.041140009
+Fig1a,Fungal Shannon,trim1,CP,0,3.206459642
+Fig1a,Bacterial Shannon,trim2,CP,0,7.186449271
+Fig1a,Fungal Shannon,trim2,CP,0,3.016712604
+Fig1a,Bacterial Shannon,trim3,CP,0,7.242683211
+Fig1a,Fungal Shannon,trim3,CP,0,3.007802058
+Fig1a,Bacterial Shannon,trim151,CP,0,6.954631153
+Fig1a,Fungal Shannon,trim151,CP,0,3.211690743
+Fig1a,Bacterial Shannon,trim4,CK,0,8.13349329
+Fig1a,Fungal Shannon,trim4,CK,0,3.262617156
+Fig1a,Bacterial Shannon,trim5,CK,0,8.095884838
+Fig1a,Fungal Shannon,trim5,CK,0,3.215028857
+Fig1a,Bacterial Shannon,trim6,CK,0,8.03134279
+Fig1a,Fungal Shannon,trim6,CK,0,3.091191684
+Fig1a,Bacterial Shannon,trim152,CK,0,8.025369632
+Fig1a,Fungal Shannon,trim152,CK,0,3.089851088
+Fig1a,KO richness,S1,CP,0,7079
+Fig1a,COG richness,S1,CP,0,32815
+Fig1a,KO richness,S2,CP,0,7004
+Fig1a,COG richness,S2,CP,0,32322
+Fig1a,KO richness,S3,CP,0,7018
+Fig1a,COG richness,S3,CP,0,32510
+Fig1a,KO richness,S4,CK,0,6912
+Fig1a,COG richness,S4,CK,0,32325
+Fig1a,KO richness,S5,CK,0,6913
+Fig1a,COG richness,S5,CK,0,31979
+Fig1a,KO richness,S152,CK,0,6824
+Fig1a,COG richness,S152,CK,0,31547

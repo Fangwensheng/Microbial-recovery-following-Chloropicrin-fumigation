@@ -1,0 +1,13 @@
+﻿Section,Profile_or_metric,Term,Test,Effect_or_F,P,FDR_or_PERMDISP_P,R2,Note,df_term,df_residual
+Day0 scalar,16S rRNA gene abundance,CP vs CK,Frozen day-0 scalar test,-0.818,0.006336,0.019,,CK mean=23735317.3; CP mean=13462470; percent change=-43.281,,
+Day0 scalar,ITS gene abundance,CP vs CK,Frozen day-0 scalar test,-1.5383,0.000225,0.0027,,CK mean=2508874.0; CP mean=863852.7; percent change=-65.568,,
+Day0 scalar,Bacterial richness,CP vs CK,Frozen day-0 scalar test,-0.1647,0.001625,0.0065,,CK mean=4908.0; CP mean=4378.5; percent change=-10.789,,
+Day0 scalar,Bacterial Shannon,CP vs CK,Frozen day-0 scalar test,-0.1849,0.003982,0.0137,,CK mean=8.7159; CP mean=7.6672; percent change=-12.032,,
+Day0 scalar,Bacterial Faith's PD,CP vs CK,Frozen day-0 scalar test,-0.10262186986709909,0.00457,0.0137,,CK mean=468.97; CP mean=436.77; percent change=-6.866,,
+Day0 scalar,Fungal richness,CP vs CK,Frozen day-0 scalar test,-0.24987103859303209,0.008241,0.0198,,CK mean=545.5; CP mean=458.75; percent change=-15.903,,
+Day0 scalar,Fungal Shannon,CP vs CK,Frozen day-0 scalar test,-0.025013315346210662,0.4417,0.4819,,CK mean=4.6601; CP mean=4.58; percent change=-1.719,,
+Day0 scalar,Fungal Faith's PD,CP vs CK,Frozen day-0 scalar test,-0.09101907156999244,0.16,0.24,,CK mean=148.51; CP mean=139.43; percent change=-6.114,,
+Day0 scalar,KO richness,CP vs CK,Frozen day-0 scalar test,0.030899199503817438,0.01411,0.0339,,CK mean=6947.3; CP mean=7097.7; percent change=2.165,,
+Day0 scalar,KO Shannon,CP vs CK,Frozen day-0 scalar test,0.008368699086820485,0.04413,0.0757,,CK mean=8.4571; CP mean=8.5063; percent change=0.582,,
+Day0 scalar,COG richness,CP vs CK,Frozen day-0 scalar test,0.02651100562777915,0.09025,0.1203,,CK mean=4259.7; CP mean=4338.7; percent change=1.855,,
+Day0 scalar,COG Shannon,CP vs CK,Frozen day-0 scalar test,0.008230814383253585,0.2202,0.2936,,CK mean=7.9525; CP mean=7.998; percent change=0.572,,

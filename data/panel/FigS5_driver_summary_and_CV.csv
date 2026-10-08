@@ -1,0 +1,56 @@
+﻿Section,Context,Predictor,Block,N,Effect,P,FDR,Definition
+Univariate,Unplanted,Initial disturbance magnitude,Initial state,1177,-0.055346824480257226,0.057663807794782335,0.06487178376913012,
+Univariate,Unplanted,Initial direction,Initial state,1177,-0.2177672760599181,4.223092393639308e-14,7.601566308550755e-13,
+Univariate,Unplanted,Baseline KO abundance,Initial state,1177,-0.0781092217894381,0.007340769204475515,0.012012167789141753,
+Univariate,Unplanted,Provider richness,Functional architecture,1177,-0.17268981339508216,2.474923345544237e-09,2.2274310109898135e-08,
+Univariate,Unplanted,Effective provider diversity,Functional architecture,1177,-0.14136639875787402,1.1202972939014e-06,5.0413378225563004e-06,
+Univariate,Unplanted,Provider phylogenetic breadth,Functional architecture,1177,-0.08455820871710706,0.0036949653782490633,0.007389930756498127,
+Univariate,Unplanted,KO genomic copy number,Functional architecture,1177,-0.05553812574027091,0.05680395464364605,0.06487178376913012,
+Univariate,Unplanted,Provider GC content,Provider traits,1177,-0.16847876576237217,6.043442947514802e-09,3.6260657685088813e-08,
+Univariate,Unplanted,Provider genome size,Provider traits,1177,-0.09514309379625827,0.001082862359016276,0.002436440307786621,
+Univariate,Unplanted,Provider gene density,Provider traits,1177,0.07393894433334561,0.011166844379123216,0.016750266568684825,
+Univariate,Unplanted,Provider tRNA density,Provider traits,1177,0.019962497737496997,0.49384727356405755,0.49384727356405755,
+Univariate,Unplanted,rrn copy number,Provider traits,1172,-0.13431255669786837,3.947331765217825e-06,1.1841995295653475e-05,
+Univariate,Unplanted,CAZyme density,Provider traits,1177,-0.11824968932476602,4.7661322690303714e-05,0.00012255768691792385,
+Univariate,Unplanted,Transporter density,Provider traits,1177,-0.08130417969190619,0.005254618830759277,0.009458313895366699,
+Univariate,Unplanted,Oxidative-stress density,Provider traits,1177,-0.069597014980133,0.016937851572187246,0.02345240986918234,
+Univariate,Unplanted,DNA-repair density,Provider traits,1177,0.02834720499531732,0.3312088876316212,0.35069176337465774,
+Univariate,Unplanted,Motility/chemotaxis,Provider traits,1177,0.06612139709929805,0.023297045544468754,0.029953344271459827,
+Univariate,Unplanted,Dormancy/sporulation,Provider traits,1177,-0.1390905346517502,1.6672302441662585e-06,6.00202887899853e-06,
+Univariate,Tomato-planted,Initial disturbance magnitude,Initial state,1177,-0.08990852503561612,0.0020184231820305075,0.004036846364061015,
+Univariate,Tomato-planted,Initial direction,Initial state,1177,-0.13969927908775387,1.499953471085622e-06,5.39983249590824e-06,
+Univariate,Tomato-planted,Baseline KO abundance,Initial state,1177,0.0520888915184297,0.07404258355955802,0.08885110027146963,
+Univariate,Tomato-planted,Provider richness,Functional architecture,1177,-0.1136504594496909,9.322539475310458e-05,0.00023972244365084037,
+Univariate,Tomato-planted,Effective provider diversity,Functional architecture,1177,-0.08412362637348626,0.0038755228242179523,0.005813284236326929,
+Univariate,Tomato-planted,Provider phylogenetic breadth,Functional architecture,1177,-0.04852742596393122,0.09609986139352956,0.10811234406772076,
+Univariate,Tomato-planted,KO genomic copy number,Functional architecture,1177,-0.01024671558391799,0.7254576576453153,0.7254576576453153,
+Univariate,Tomato-planted,Provider GC content,Provider traits,1177,-0.15135772107731219,1.8158676679484354e-07,8.171404505767959e-07,
+Univariate,Tomato-planted,Provider genome size,Provider traits,1177,-0.11620203428698836,6.444860906548086e-05,0.00019334582719644257,
+Univariate,Tomato-planted,Provider gene density,Provider traits,1177,0.08782578522900192,0.002563828707793405,0.004614891674028129,
+Univariate,Tomato-planted,Provider tRNA density,Provider traits,1177,0.0999706057982124,0.0005932142131067448,0.0013347319794901758,
+Univariate,Tomato-planted,rrn copy number,Provider traits,1172,-0.1542777935464756,1.1096061157171634e-07,8.079308731941565e-07,
+Univariate,Tomato-planted,CAZyme density,Provider traits,1177,-0.15293839909205834,1.3465514553235942e-07,8.079308731941565e-07,
+Univariate,Tomato-planted,Transporter density,Provider traits,1177,-0.08474774287862336,0.003618638491132542,0.005813284236326929,
+Univariate,Tomato-planted,Oxidative-stress density,Provider traits,1177,-0.026708169111897804,0.35994051173476876,0.38111348301328457,
+Univariate,Tomato-planted,DNA-repair density,Provider traits,1177,0.06075922560514601,0.037141614620683175,0.05142685101325362,
+Univariate,Tomato-planted,Motility/chemotaxis,Provider traits,1177,0.056819121922484644,0.05131674329511459,0.06597866995086162,
+Univariate,Tomato-planted,Dormancy/sporulation,Provider traits,1177,-0.15518287094837033,8.760774747707484e-08,8.079308731941565e-07,
+Adjusted partial Spearman,Unplanted,Provider richness,Functional architecture,1177,-0.0763704,0.0087642,,"Adjusted for initial magnitude, baseline abundance, initial direction, weighted completeness, weighted contamination"
+Adjusted partial Spearman,Tomato-planted,Provider richness,Functional architecture,1177,-0.1110849,0.000134095,,"Adjusted for initial magnitude, baseline abundance, initial direction, weighted completeness, weighted contamination"
+Adjusted partial Spearman,Unplanted,Effective provider diversity,Functional architecture,1177,-0.0415817,0.153966,,"Adjusted for initial magnitude, baseline abundance, initial direction, weighted completeness, weighted contamination"
+Adjusted partial Spearman,Tomato-planted,Effective provider diversity,Functional architecture,1177,-0.07424294,0.0108375,,"Adjusted for initial magnitude, baseline abundance, initial direction, weighted completeness, weighted contamination"
+Adjusted partial Spearman,Unplanted,Provider phylogenetic breadth,Functional architecture,1177,-0.0240127,0.410476,,"Adjusted for initial magnitude, baseline abundance, initial direction, weighted completeness, weighted contamination"
+Adjusted partial Spearman,Tomato-planted,Provider phylogenetic breadth,Functional architecture,1177,-0.0364773,0.211107,,"Adjusted for initial magnitude, baseline abundance, initial direction, weighted completeness, weighted contamination"
+Nested 10-fold CV ridge,Unplanted,Initial state,Initial state,1177,0.0459,,,Held-out R²
+Nested 10-fold CV ridge,Unplanted,Functional architecture,Functional architecture,1177,0.01,,,Held-out R²
+Nested 10-fold CV ridge,Unplanted,Provider traits,Provider traits,1177,0.0168,,,Held-out R²
+Nested 10-fold CV ridge,Unplanted,Combined,Combined,1177,0.0822,,,Held-out R²; outer-fold SD=0.0557
+Nested 10-fold CV ridge,Tomato-planted,Initial state,Initial state,1177,0.0189,,,Held-out R²
+Nested 10-fold CV ridge,Tomato-planted,Functional architecture,Functional architecture,1177,-0.0024,,,Held-out R²
+Nested 10-fold CV ridge,Tomato-planted,Provider traits,Provider traits,1177,0.0505,,,Held-out R²
+Nested 10-fold CV ridge,Tomato-planted,Combined,Combined,1177,0.0817,,,Held-out R²; outer-fold SD=0.0502
+Predictor definition,,Initial disturbance magnitude,Initial state,,,,,|day-0 DESeq2 log2FC(CP/CK)|
+Predictor definition,,Provider richness,Functional architecture,,,,,Number of non-redundant representative MAGs encoding the KO
+Predictor definition,,Effective provider diversity,Functional architecture,,,,,"exp[-Σ p_i ln p_i], p_i ∝ CK0 MAG abundance × KO copy number"
+Predictor definition,,Provider phylogenetic breadth,Functional architecture,,,,,Mean pairwise patristic distance among providers
+Predictor definition,,Provider-weighted trait,Provider traits,,,,,"Σ p_i × trait_i; gene-family traits expressed per 1,000 genes"

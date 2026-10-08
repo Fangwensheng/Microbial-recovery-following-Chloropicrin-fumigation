@@ -1,0 +1,13 @@
+﻿Treatment,Week,Day,Wilt_disease_index,Inference_note
+TCK,1,7,0,Treatment-level derived disease index; descriptive only; do not treat repeated individual grades as independent replicates.
+TCP,1,7,0,Treatment-level derived disease index; descriptive only; do not treat repeated individual grades as independent replicates.
+TCK,2,14,0,Treatment-level derived disease index; descriptive only; do not treat repeated individual grades as independent replicates.
+TCP,2,14,0,Treatment-level derived disease index; descriptive only; do not treat repeated individual grades as independent replicates.
+TCK,4,28,0,Treatment-level derived disease index; descriptive only; do not treat repeated individual grades as independent replicates.
+TCP,4,28,0,Treatment-level derived disease index; descriptive only; do not treat repeated individual grades as independent replicates.
+TCK,6,42,25,Treatment-level derived disease index; descriptive only; do not treat repeated individual grades as independent replicates.
+TCP,6,42,0,Treatment-level derived disease index; descriptive only; do not treat repeated individual grades as independent replicates.
+TCK,8,56,37.5,Treatment-level derived disease index; descriptive only; do not treat repeated individual grades as independent replicates.
+TCP,8,56,0,Treatment-level derived disease index; descriptive only; do not treat repeated individual grades as independent replicates.
+TCK,10,70,87.5,Treatment-level derived disease index; descriptive only; do not treat repeated individual grades as independent replicates.
+TCP,10,70,25,Treatment-level derived disease index; descriptive only; do not treat repeated individual grades as independent replicates.

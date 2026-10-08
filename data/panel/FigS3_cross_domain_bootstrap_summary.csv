@@ -1,0 +1,3 @@
+﻿Section,Profile_or_metric,Term,Test,Effect_or_F,P,FDR_or_PERMDISP_P,R2,Note,df_term,df_residual
+Cross-domain validation,Unplanted,Function minus taxonomy relative-distance slope,Bootstrap slope contrast,-0.0216,,,,"95% CI [-0.0304, -0.0114] per 10 d",,
+Cross-domain validation,Tomato-planted,Function minus taxonomy relative-distance slope,Bootstrap slope contrast,-0.0167,,,,"95% CI [-0.0254, -0.0048] per 10 d",,
