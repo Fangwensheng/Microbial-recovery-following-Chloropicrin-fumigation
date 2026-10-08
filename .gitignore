@@ -1,0 +1,28 @@
+
+# R specific files
+*.Rhistory
+*.RData
+*.Rds
+.Rproj.user/
+  .Rprofile
+
+# Generated plot outputs
+output/
+  *.pdf
+*.svg
+*.png
+*.tiff
+
+# OS junk files
+Thumbs.db
+.DS_Store
+
+# OneDrive / cloud sync cache
+*.syncdb
+~$*
+  
+  # Large sequencing raw files
+  *.fastq
+*.fasta
+*.bam
+*.sam
