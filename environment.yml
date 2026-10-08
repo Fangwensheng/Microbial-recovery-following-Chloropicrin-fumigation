@@ -1,0 +1,21 @@
+name: chloropicrin_fig_repro
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - r-base>=4.2
+  - r-ggplot2
+  - r-dplyr
+  - r-tidyr
+  - r-readr
+  - r-readxl
+  - r-purrr
+  - r-stringr
+  - r-tibble
+  - r-vegan
+  - r-ape
+  - r-patchwork
+  - r-scales
+  - r-ggrepel
+  - r-cluster
