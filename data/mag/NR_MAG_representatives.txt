@@ -1,0 +1,41 @@
+ANI_cluster	Representative_MAG	Cluster_size	Completeness	Contamination	Genome_size_bp	GC_percent	Taxonomy
+Cluster_001	MAG51	39	84.24	0.81	2751430	72.87214285	d__Bacteria;p__Actinomycetota;c__Actinomycetes;o__JACCUZ01;f__JACCUZ01;g__DASVBJ01;s__DASVBJ01 sp036375895
+Cluster_002	MAG56	3	59.5	5.33	5676380	72.29501901	d__Bacteria;p__Actinomycetota;c__Actinomycetes;o__Streptomycetales;f__Streptomycetaceae;g__Streptomyces;s__Unclassified
+Cluster_003	MAG75	1	55.35	9.42	3993076	72.19494445	d__Bacteria;p__Actinomycetota;c__Actinomycetes;o__Streptomycetales;f__Streptomycetaceae;g__Streptomyces;s__Streptomyces althioticus
+Cluster_004	MAG31	1	50.22	3.78	2033773	70.98540496	d__Bacteria;p__Actinomycetota;c__Actinomycetes;o__Streptomycetales;f__Streptomycetaceae;g__Streptomyces;s__Streptomyces althioticus
+Cluster_005	MAG66	1	62.45	8.42	6074454	71.78880604	d__Bacteria;p__Actinomycetota;c__Actinomycetes;o__Streptomycetales;f__Streptomycetaceae;g__Streptomyces;s__Unclassified
+Cluster_006	MAG16	1	63.31	8.16	6531843	72.44765375	d__Bacteria;p__Actinomycetota;c__Actinomycetes;o__Streptomycetales;f__Streptomycetaceae;g__Streptomyces;s__Unclassified
+Cluster_007	MAG27	1	56.36	9.82	4781554	71.84225045	d__Bacteria;p__Actinomycetota;c__Actinomycetes;o__Propionibacteriales;f__Nocardioidaceae;g__Unclassified;s__Unclassified
+Cluster_008	MAG78	4	68.43	3.46	5821075	67.83838037	d__Bacteria;p__Myxococcota;c__Polyangia;o__Polyangiales;f__Polyangiaceae;g__PMG-095;s__Unclassified
+Cluster_009	MAG69	1	58.9	7.94	6065900	67.66201223	d__Bacteria;p__Myxococcota;c__Polyangia;o__Polyangiales;f__Polyangiaceae;g__PMG-095;s__Unclassified
+Cluster_010	MAG59	1	65.8	7.18	5594663	67.73954034	d__Bacteria;p__Myxococcota;c__Polyangia;o__Polyangiales;f__Polyangiaceae;g__PMG-095;s__Unclassified
+Cluster_011	MAG50	1	58.98	3.57	4396657	67.47014834	d__Bacteria;p__Myxococcota;c__Polyangia;o__Polyangiales;f__Polyangiaceae;g__PMG-095;s__Unclassified
+Cluster_012	MAG8	1	50.69	8.68	5673295	68.05838582	d__Bacteria;p__Myxococcota;c__Polyangia;o__Polyangiales;f__Polyangiaceae;g__PMG-095;s__Unclassified
+Cluster_013	MAG13	1	63.7	3.53	5001353	70.97697363	d__Bacteria;p__Actinomycetota;c__Actinomycetes;o__Mycobacteriales;f__Pseudonocardiaceae;g__Actinophytocola;s__Unclassified
+Cluster_014	MAG41	1	62.42	2.06	5063916	71.15044957	d__Bacteria;p__Actinomycetota;c__Actinomycetes;o__Mycobacteriales;f__Pseudonocardiaceae;g__Actinophytocola;s__Unclassified
+Cluster_015	MAG81	1	50.19	4.78	3630346	71.16082048	d__Bacteria;p__Actinomycetota;c__Actinomycetes;o__Mycobacteriales;f__Pseudonocardiaceae;g__Actinophytocola;s__Unclassified
+Cluster_016	MAG38	1	50.87	7.58	2232417	70.25784161	d__Bacteria;p__Actinomycetota;c__Actinomycetes;o__Mycobacteriales;f__Pseudonocardiaceae;g__Actinophytocola;s__Unclassified
+Cluster_017	MAG12	1	51.55	7.05	2029879	69.5369527	d__Bacteria;p__Actinomycetota;c__Actinomycetes;o__Propionibacteriales;f__Nocardioidaceae;g__Nocardioides_C;s__Unclassified
+Cluster_018	MAG25	1	50.44	7.56	1991521	69.91465317	d__Bacteria;p__Actinomycetota;c__Actinomycetes;o__Mycobacteriales;f__Pseudonocardiaceae;g__Actinophytocola;s__Unclassified
+Cluster_019	MAG60	1	52.03	6.53	2511339	70.13780298	d__Bacteria;p__Actinomycetota;c__Actinomycetes;o__Propionibacteriales;f__Nocardioidaceae;g__Nocardioides_C;s__Unclassified
+Cluster_020	MAG7	3	52.46	3.5	1384734	63.71606388	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Sphingomonadales;f__Sphingomonadaceae;g__Sphingomicrobium;s__Unclassified
+Cluster_021	MAG32	1	59.43	9.77	1680755	63.61658897	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Sphingomonadales;f__Sphingomonadaceae;g__Sphingomicrobium;s__Unclassified
+Cluster_022	MAG9	1	52.59	9.56	1486960	64.00683273	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Sphingomonadales;f__Sphingomonadaceae;g__Sphingomicrobium;s__Unclassified
+Cluster_023	MAG61	1	67.96	3.72	6174920	67.7269827	d__Bacteria;p__Myxococcota;c__Polyangia;o__Haliangiales;f__Haliangiaceae;g__JABFXX01;s__Unclassified
+Cluster_024	MAG63	1	57.65	4.57	6152616	67.64925684	d__Bacteria;p__Myxococcota;c__Polyangia;o__Haliangiales;f__Haliangiaceae;g__JABFXX01;s__Unclassified
+Cluster_025	MAG74	1	59.16	4.67	4467278	67.595547	d__Bacteria;p__Myxococcota;c__Polyangia;o__Haliangiales;f__Haliangiaceae;g__JABFXX01;s__Unclassified
+Cluster_026	MAG43	1	51.1	8.47	4034194	67.69421599	d__Bacteria;p__Myxococcota;c__Polyangia;o__Haliangiales;f__Haliangiaceae;g__JABFXX01;s__Unclassified
+Cluster_027	MAG11	3	85.09	1.94	2339813	70.13060445	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Cognatiluteimonas;s__Cognatiluteimonas sp036676275
+Cluster_028	MAG49	1	61.94	3.97	2925261	71.7901753	d__Bacteria;p__Gemmatimonadota;c__Gemmatimonadetes;o__Gemmatimonadales;f__Gemmatimonadaceae;g__G030860435;s__Unclassified
+Cluster_029	MAG53	1	63.28	8.35	2944112	71.90850756	d__Bacteria;p__Gemmatimonadota;c__Gemmatimonadetes;o__Gemmatimonadales;f__Gemmatimonadaceae;g__G030860435;s__Unclassified
+Cluster_030	MAG18	1	50.45	9.39	2514912	71.11672297	d__Bacteria;p__Gemmatimonadota;c__Gemmatimonadetes;o__Gemmatimonadales;f__Gemmatimonadaceae;g__G030860435;s__Unclassified
+Cluster_031	MAG14	1	91.88	9.76	4124325	71.98668873	d__Bacteria;p__Actinomycetota;c__Actinomycetes;o__Propionibacteriales;f__Nocardioidaceae;g__Nocardioides;s__Nocardioides sp035554935
+Cluster_032	MAG87	1	51.85	8.11	3004920	72.84223873	d__Bacteria;p__Actinomycetota;c__Actinomycetes;o__Propionibacteriales;f__Nocardioidaceae;g__Nocardioides;s__Unclassified
+Cluster_033	MAG22	1	50.45	7.6	3259980	68.45121749	d__Bacteria;p__Myxococcota;c__Polyangia;o__Polyangiales;f__Polyangiaceae;g__PMG-095;s__PMG-095 sp030852505
+Cluster_034	MAG83	1	59.69	9.96	2487784	68.24446978	d__Bacteria;p__Myxococcota;c__Polyangia;o__Polyangiales;f__Polyangiaceae;g__PMG-095;s__Unclassified
+Cluster_035	MAG19	1	54.87	9.14	1980654	70.49217077	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__JABFWF01;s__Unclassified
+Cluster_036	MAG35	1	54.7	3.08	1431884	70.46653221	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__CAMPJU01;s__Unclassified
+Cluster_037	MAG37	1	50.23	5.78	2601334	72.07682674	d__Bacteria;p__Actinomycetota;c__Actinomycetes;o__Unclassified;f__Unclassified;g__Unclassified;s__Unclassified
+Cluster_038	MAG52	1	56.02	9.91	3249915	70.71920343	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__Roseateles;s__Roseateles sp900113225
+Cluster_039	MAG62	1	56.17	8.64	2063821	70.60544495	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__CFH-32150;s__Unclassified
+Cluster_040	MAG86	1	52.83	6.44	1257536	64.44889053	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Sphingomonadales;f__Sphingomonadaceae;g__Sphingomicrobium;s__Unclassified
